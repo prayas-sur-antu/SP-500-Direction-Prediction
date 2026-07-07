@@ -1,6 +1,6 @@
 # S&P 500 Market Direction Prediction (Random Forest, Backtesting)
 
-A machine-learning project that predicts whether the S&P 500 index will close higher the next day, using a Random Forest classifier evaluated with a proper time-series backtest. This started as a Dataquest guided project; I worked through it to understand time-series validation and feature engineering for financial data.
+A machine-learning project that predicts whether the S&P 500 index will close higher the next day, using a Random Forest classifier evaluated with a proper time-series backtest. This started as a Dataquest portfolio project; I worked through it to understand time-series validation and feature engineering for financial data.
 
 Honest framing up front: this is a methods exercise in backtesting and feature engineering, not a trading strategy. Predicting daily market direction is close to a coin flip, and the results here reflect that.
 
