@@ -31,11 +31,3 @@ The transferable skill here is **evaluating a time-series model honestly**: you 
 ## Tech stack
 
 Python, pandas, scikit-learn (RandomForestClassifier), yfinance.
-
-## How to run
-
-1. Install dependencies:
-   ```
-   pip install pandas scikit-learn yfinance
-   ```
-2. Open `market_prediction.ipynb` and run the cells top to bottom. Price data is downloaded automatically (and cached to `sp500.csv` after the first run).
